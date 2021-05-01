@@ -2,3 +2,27 @@ body {background-color: black;}
 body {
     color: white;
   }
+
+  a:link {
+    color: rgb(70, 70, 169);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(70, 70, 169);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(70, 70, 169);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:active {
+    color: rgb(70, 70, 169);
+    background-color: transparent;
+    text-decoration: none;
+  }
