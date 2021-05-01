@@ -4,25 +4,25 @@ body {
   }
 
   a:link {
-    color: rgb(70, 70, 169);
+    color: rgb(70, 70, 130);
     background-color: transparent;
     text-decoration: none;
   }
   
   a:visited {
-    color: rgb(70, 70, 169);
+    color: rgb(70, 70, 130);
     background-color: transparent;
     text-decoration: none;
   }
   
   a:hover {
-    color: rgb(70, 70, 169);
+    color: rgb(70, 70, 130);
     background-color: transparent;
     text-decoration: none;
   }
   
   a:active {
-    color: rgb(70, 70, 169);
+    color: rgb(70, 70, 130);
     background-color: transparent;
     text-decoration: none;
   }
